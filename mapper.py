@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 import sys
 
+# new update
+
+
 # get all lines from stdin
 for line in sys.stdin:
     # remove leading and trailing whitespace
